@@ -1,5 +1,5 @@
 {
-  "name": "astro-headless-ui",
+  "name": "astro-tailwind-vue-starter",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
